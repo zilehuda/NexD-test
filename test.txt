@@ -1,8 +1,5 @@
 test abc
 now changing from dev branch
 new change from dev branch
-<<<<<<< Updated upstream
 commit changes from dev branch
-=======
 change for stash
->>>>>>> Stashed changes
